@@ -10,13 +10,11 @@ The Bootstrap-Portfolio takes this template yet another step further using Boots
 <img src="./assets/images/About_980.png" alt="980" width=250 height=200 /> <img src="./assets/images/Portfolio_980.png" alt="980" width=250 height=200 /> <img src="./assets/images/Contact_980.png" alt="980" width=250 height=200 />
 
 #### About Me, Portfolio, and Contact Pages at max-width 768px
-![768px](./assets/images/About_768.png)
-![768px](./assets/images/Portfolio_768.png)
-![768px](./assets/images/Contact_768.png)
+<img src="./assets/images/About_768.png" alt="768" width=250 height=300 /> <img src="./assets/images/Portfolio_768.png" alt="980" width=250 height=300 /> <img src="./assets/images/Contact_768.png" alt="768" width=250 height=300 />
+
 
 
 #### About Me, Portfolio, and Contact Pages at max-width 640px
-![640px](./assets/images/About_640.png)
-![640px](./assets/images/Portfolio_640.png)
-![640px](./assets/images/Contact_640.png)
+<img src="./assets/images/About_640.png" alt="640" width=250 height=400 /> <img src="./assets/images/Portfolio_640.png" alt="640" width=250 height=400 /> <img src="./assets/images/Contact_640.png" alt="640" width=250 height=400 />
+
 
