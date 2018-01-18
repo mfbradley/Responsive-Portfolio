@@ -7,9 +7,9 @@ The Bootstrap-Portfolio takes this template yet another step further using Boots
 [Bootstrap-Portfolio](https://github.com/mfbradley/Bootstrap-Portfolio)
 
 #### About Me, Portfolio, and Contact Pages at max-width 980px
-![980px](./assets/images/About_980.png)
-![980px](./assets/images/Portfolio_980.png)
-![980px](./assets/images/Contact_980.png)
+<img src="./assets/images/About_980.png" alt="980" width=200 height=200 />
+<img src="./assets/images/Portfolio_980.png" alt="980" width=200 height=200 />
+<img src="./assets/images/Contact_980.png" alt="980" width=200 height=200 />
 
 #### About Me, Portfolio, and Contact Pages at max-width 768px
 ![768px](./assets/images/About_768.png)
