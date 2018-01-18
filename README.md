@@ -3,7 +3,7 @@
 This basic portfolio template expands upon the Basic-Portfolio (built using only **HTML** and **CSS**) by adding media queries to create a responsive design. The media queries included in the style.css file include breakpoints at 640px, 768px and 980px. Please check out the images below for examples.
 
 
-[Responsive-Portfolio in Browswer](https://mfbradley.github.io/Responsive-Portfolio/)  
+[Responsive-Portfolio in Browser](https://mfbradley.github.io/Responsive-Portfolio/)  
 
 
 #### About Me, Portfolio, and Contact Pages at max-width 980px
