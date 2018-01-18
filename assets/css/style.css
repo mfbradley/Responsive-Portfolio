@@ -1,3 +1,4 @@
+/* Body - tiled background image */
 body {
     margin: auto;
     background-image: url("../images/norwegian_rose.png");
@@ -14,6 +15,7 @@ body {
     clear: both;
 }
 
+/* -----Nav Bar----- */
 nav {
     color: #777;
     background-color: #fff;
@@ -69,7 +71,9 @@ h1 {
     float: left;
     margin-left: 100px;
 }
+/* -----End Nav Bar----- */
 
+/* -----Main Section for each page----- */
 section {
     width: 60%;
     max-width: 650px;
@@ -125,7 +129,9 @@ p {
     margin-top: 10px;
     margin-bottom: 30px;
 }
+/* -----End Main Section----- */
 
+/* Connect with Me Aside */
 aside {
     width: 270px;
     float: left;
@@ -147,6 +153,7 @@ h3 {
     margin-left: 25px;
 }
 
+/* GitHub Image */
 .gh {
     height: 50px;
     width: 50px;
@@ -169,6 +176,7 @@ footer {
     border-top-width: 8px;
 }
 
+/* -----Contact Page----- */
 form {
     color: #777;
     position: relative;
@@ -192,7 +200,9 @@ input {
 .submit {
     width: 100px;
 }
+/* -----End Contact Page----- */
 
+/* -----Portfolio Page----- */
 .stock {
     float: left;
     position: relative;
@@ -221,6 +231,7 @@ input {
     margin: 20px;
 }
 
+/* Media Queries for screens up to 980px wide */
 @media screen and (max-width: 980px) {
     .wrapper {
         width: 100%;
@@ -245,6 +256,7 @@ input {
     }
 }
 
+/* Media Queries for screens up to 768px wide */
 @media screen and (max-width: 768px) {
     .wrapper {
         width: 100%;
@@ -286,6 +298,7 @@ input {
 
 }
 
+/* Media Queries for screens up to 640px wide */
 @media screen and (max-width: 640px) {
     .wrapper {
         width: 100%;
