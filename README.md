@@ -7,14 +7,14 @@ The Bootstrap-Portfolio takes this template yet another step further using Boots
 [Bootstrap-Portfolio](https://github.com/mfbradley/Bootstrap-Portfolio)
 
 #### About Me, Portfolio, and Contact Pages at max-width 980px
-<img src="./assets/images/About_980.png" alt="980" width=250 height=200 /> <img src="./assets/images/Portfolio_980.png" alt="980" width=250 height=200 /> <img src="./assets/images/Contact_980.png" alt="980" width=250 height=200 />
+<img src="./assets/images/About_980.png" alt="980" width=250 height=250 /> <img src="./assets/images/Portfolio_980.png" alt="980" width=250 height=250 /> <img src="./assets/images/Contact_980.png" alt="980" width=250 height=250 />
 
 #### About Me, Portfolio, and Contact Pages at max-width 768px
-<img src="./assets/images/About_768.png" alt="768" width=250 height=300 /> <img src="./assets/images/Portfolio_768.png" alt="980" width=250 height=300 /> <img src="./assets/images/Contact_768.png" alt="768" width=250 height=300 />
+<img src="./assets/images/About_768.png" alt="768" width=250 height=350 /> <img src="./assets/images/Portfolio_768.png" alt="980" width=250 height=350 /> <img src="./assets/images/Contact_768.png" alt="768" width=250 height=350 />
 
 
 
 #### About Me, Portfolio, and Contact Pages at max-width 640px
-<img src="./assets/images/About_640.png" alt="640" width=250 height=400 /> <img src="./assets/images/Portfolio_640.png" alt="640" width=250 height=400 /> <img src="./assets/images/Contact_640.png" alt="640" width=250 height=400 />
+<img src="./assets/images/About_640.png" alt="640" width=250 height=450 /> <img src="./assets/images/Portfolio_640.png" alt="640" width=250 height=450 /> <img src="./assets/images/Contact_640.png" alt="640" width=250 height=450 />
 
 
